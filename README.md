@@ -28,4 +28,10 @@ class Bar:
 Bar().method()
 
 ct.stop()  # 추적 종료 및 결과 출력
+ct.filelist() #현재 폴더 구조 알려줌
 ```
+
+### 출력 예시 
+<img src="ex.png" width="400"/>
+
+---
