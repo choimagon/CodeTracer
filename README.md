@@ -7,7 +7,11 @@
 ```bash
 pip install git+https://github.com/choimagon/CodeTracer.git
 ```
-
+### 지우기
+```
+pip uninstall CodeTracer
+```
+---
 ## 🚀 사용 예시
 
 ```python
