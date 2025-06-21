@@ -3,5 +3,5 @@
 ## 설치 방법
 
 ```bash
-pip install git+https://github.com/choimagon/ColorLog.git
+pip install git+https://github.com/choimagon/CodeTracer.git
 ```
